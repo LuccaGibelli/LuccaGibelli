@@ -1,16 +1,13 @@
-## Hi there 👋
+### Olá! Eu sou o Lucca Gibelli 👋
 
-<!--
-**LuccaGibelli/LuccaGibelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Engenheiro da Computação
+- 📍 Trabalho com infraestrutura, automações Python e Power BI
+- 🚀 Explorando IA e automações com Selenium e Huggy
 
-Here are some ideas to get you started:
+#### 🚧 Tecnologias e ferramentas:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📫 Conecte-se comigo:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
