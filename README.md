@@ -19,20 +19,20 @@
 
 ### 🚀 Sobre mim
 
-Sou um engenheiro da computação apaixonado por tecnologia e soluções inteligentes. Com sólida experiência em automações com Python, infraestrutura de TI e ferramentas corporativas como SAP, Power BI e AutoCAD, busco constantemente otimizar processos e entregar resultados mensuráveis.  
-Tenho um perfil generalista com foco em integração de sistemas, produtividade e soluções digitais aplicáveis ao cotidiano empresarial.
+Sou um engenheiro da computação apaixonado por tecnologia e soluções inteligentes. Possuo experiência em automações com Python, infraestrutura de TI e ferramentas corporativas como SAP, Power BI e AutoCAD, busco constantemente otimizar processos e entregar resultados.  
+Meu perfil tem como foco em integração de sistemas, produtividade e soluções digitais aplicáveis ao cotidiano empresarial.
 
 ---
 
 ### 🧠 Principais Habilidades
 
 - ⚙️ **Automação de Processos** com Python (Selenium, pyautogui, API REST)
-- ☁️ **Amazon AWS**: EC2, S3, IAM, RDS
+- ☁️ **Amazon AWS**: EC2, S3, IAM
 - 📊 **Power BI**: Modelagem de dados, DAX, conectores e dashboards interativos
 - 🧾 **SAP**: Apoio em processos ERP, relatórios e extrações automatizadas
 - 📐 **AutoCAD**: Projetos 2D e 3D de infraestrutura e redes
 - 🛠️ **Infraestrutura de TI**: Cabeamento, câmeras, redes e servidores
-- 🧩 **Integrações**: SharePoint, Trello, WhatsApp (via Huggy ou pyautogui), RD Station e Sponte
+- 🧩 **Integrações**: SharePoint, Trello, WhatsApp, RD Station e Sponte
 
 ---
 
