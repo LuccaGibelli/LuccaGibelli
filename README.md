@@ -38,43 +38,20 @@ Tenho um perfil generalista com foco em integração de sistemas, produtividade 
 
 ---
 
-### 📸 Exemplos Visuais
-
-#### ✅ Automação Python para Envio de Relatórios via WhatsApp
-Automação diária usando Selenium e pyautogui, acessando plataformas como RD Station, Sponte e SharePoint.
-
-![Automação com Python](https://i.imgur.com/SEU_LINK1.png)
-
----
-
-#### 📊 Dashboard Power BI Integrado
-Dashboard que consolida dados de atendimento, vendas e contratos em um painel gerencial.
-
-![Dashboard Power BI](https://i.imgur.com/SEU_LINK2.png)
-
----
-
-#### 🔗 Integração SharePoint + Trello
-Cada item de chamado na lista do SharePoint vira um card no Trello, com cor por prioridade e dados estruturados.
-
-![Integração SharePoint Trello](https://i.imgur.com/SEU_LINK3.png)
-
----
-
-#### 🧱 Projeto AutoCAD - Infraestrutura de TI
-Planejamento de rede e pontos de acesso para empresa em prédio comercial.
-
-![Projeto AutoCAD](https://i.imgur.com/SEU_LINK4.png)
-
----
-
 ### 📫 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luccagibelli)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:luccagibelli111@gmail.com)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/LuccaGibelli)
+<p align="left">
+  <a href="https://www.linkedin.com/in/luccagibelli" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20&labelColor=0A66C2" style="border-radius: 50px;" />
+  </a>
+  <a href="mailto:luccagibelli111@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20&labelColor=D14836" style="border-radius: 50px;" />
+  </a>
+  <a href="https://github.com/LuccaGibelli" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20&labelColor=181717" style="border-radius: 50px;" />
+  </a>
+</p>
 
 ---
 
 > *“A tecnologia não substitui o ser humano. Ela potencializa quem sabe usar.”*
-
