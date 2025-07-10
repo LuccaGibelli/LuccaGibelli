@@ -1,6 +1,19 @@
 # 👨‍💻 Lucca Gibelli
 
-**Engenheiro de Computação** | **Automação com Python** | **SAP** | **Amazon AWS** | **Power BI** | **AutoCAD**
+---
+
+### 🔧 Tecnologias & Ferramentas
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![SAP](https://img.shields.io/badge/-SAP-0FAAFF?style=flat&logo=sap&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-E60000?style=flat&logo=autodesk&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white)
+![SharePoint](https://img.shields.io/badge/-SharePoint-0078D4?style=flat&logo=microsoftsharepoint&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Huggy](https://img.shields.io/badge/-Huggy-00C9A7?style=flat)
 
 ---
 
@@ -20,21 +33,6 @@ Tenho um perfil generalista com foco em integração de sistemas, produtividade 
 - 📐 **AutoCAD**: Projetos 2D e 3D de infraestrutura e redes
 - 🛠️ **Infraestrutura de TI**: Cabeamento, câmeras, redes e servidores
 - 🧩 **Integrações**: SharePoint, Trello, WhatsApp (via Huggy ou pyautogui), RD Station e Sponte
-
----
-
-### 🔧 Tecnologias & Ferramentas
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![SAP](https://img.shields.io/badge/-SAP-0FAAFF?style=flat&logo=sap&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/-AutoCAD-E60000?style=flat&logo=autodesk&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white)
-![SharePoint](https://img.shields.io/badge/-SharePoint-0078D4?style=flat&logo=microsoftsharepoint&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![Huggy](https://img.shields.io/badge/-Huggy-00C9A7?style=flat)
 
 ---
 
