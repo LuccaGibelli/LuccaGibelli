@@ -1,4 +1,4 @@
-### Olá! Eu sou o Lucca Gibelli 👋
+### Lucca Gibelli 👋
 
 - 💻 Engenheiro da Computação
 - 📍 Trabalho com infraestrutura, automações Python e Power BI
